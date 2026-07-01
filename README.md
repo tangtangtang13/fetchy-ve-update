@@ -1,0 +1,5 @@
+{
+  "version": "1.2.2",
+  "downloadUrl": "https://github.com/tangtangtang13/fetchy-ve-update/releases/download/1.2.2/Fetchy_Setup_122.exe",
+  "message": "อัปเดตเวอร์ชัน 1.2.2"
+}
