@@ -1,5 +1,5 @@
 {
   "version": "1.2.2",
-  "downloadUrl": "https://github.com/tangtangtang13/fetchy-ve-update/releases/download/1.2.2/Fetchy_Setup_122.exe",
+  "downloadUrl": "https://github.com/tangtangtang13/fetchy-ve-update/releases/download/v1.2.2/Fetchy_Setup_122.exe",
   "message": "อัปเดตเวอร์ชัน 1.2.2เพิ่มรายชื่อพนักงาน แก้ไข Ui ให้เต็มสองหน้าจอ"
 }
