@@ -1,5 +1,5 @@
 {
-  "version": "1.2.8",
-  "setupUrl": "https://github.com/tangtangtang13/fetchy-ve-update/releases/download/v1.2.8/Fetchy_Setup_123.exe",
-  "message": "อัปเดต 1.2.8 เพิ่มรายชื่อพนักงาน"
+  "version": "1.2.9",
+  "setupUrl": "https://github.com/tangtangtang13/fetchy-ve-update/releases/download/v1.2.9/Fetchy_Setup_123.exe",
+  "message": "อัปเดต 1.2.9 เพิ่มระบบจัดการรายชื่อพนักงาน เชื่อมรายชื่อกับเมนูลงเวลาทั้งหมด รองรับการเพิ่ม แก้ไข และลบรายชื่อ พร้อมปรับปรุง UI และการแสดงผล"
 }
